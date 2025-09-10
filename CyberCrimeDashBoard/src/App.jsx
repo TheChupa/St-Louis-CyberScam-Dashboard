@@ -25,7 +25,9 @@ function App() {
         <br></br>
         Create visualizations for each data source, maybe compare St louis to total money vs us, do the same for scams lost.
         <br></br>
-        
+        Do I want the app to have bar graphs or circle graphs or both.
+        <br/>
+        Do I want to use a library like D3 or Chart.js or just use simple HTML/CSS/JS
       </div>
     </>
   )
